@@ -1,0 +1,148 @@
+
+.column{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border-radius:50%;
+}
+
+.row {
+  content: "";
+  clear: both;
+  display: table;
+  gap:20px
+}
+.style{
+  text-align:center;
+  color:black;
+
+}
+
+.container{
+  min-height: 50px;
+  background-color:#00BCD4 ;
+  font-family:Arial, Helvetica, sans-serif;
+  margin:0px;
+  padding:0;
+  max-width:  3000px;
+}
+ .header {
+  background: color #03a9f4;;
+  color: white;
+  max-width:2000px;
+  padding: 1rem 2rem 3rem;
+  justify-content:space-between;
+  
+}
+
+.card {
+  background-color: white;
+  max-width:  2000px;
+  margin: 45px;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+
+}
+
+.card1{
+    color:black;
+
+}
+
+.banner {
+  width: 100%;
+  border-radius: 8px;
+}
+.chatbot{ 
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 80px;
+  height: 80px;
+  border-radius: 90%;
+  border: 3px solid black;
+}
+
+.page{
+  font-size:20px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.btn1{
+  background-color: #4CAF50;
+  color: white;
+  padding:10px 20px;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  box-sizing: 10px;
+
+}
+.border1{
+   border:"1";
+
+}
+.centerText1{
+  text-align: center;
+  color: blue;
+}
+.centerText{
+  position: absolute;
+  top:2.0%;
+  left:17%;
+  font-weight:500;
+  color:white;
+  padding: 60px;
+  border: radius 12px;
+  font-weight:bold;
+  text-align:center;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height:350px;
+  width:1000px;
+  filter:blur(2px);
+}
+
+/* Subtitle */
+.subtitle {
+  font-size: 1.5rem;
+  color: white;
+  margin-bottom: 15px;
+}
+
+/* Apply Now Button */
+.apply-button {
+  display: inline-block;
+  background-color: #28a745;
+  color: white;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.apply-button:hover {
+  background-color: #218838;
+}
+.but2{
+  display: inline-block;
+  background-color: #28a745;
+  color: white;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  text-box: center;
+}
+
