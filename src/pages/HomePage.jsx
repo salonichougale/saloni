@@ -7,29 +7,27 @@ const HomePage = () => {
         <div className="header">
         <div className="card">
           <img src="/images/vck2.png" class="banner"/> 
-        <h1 className="centerText">
+          <h1 className="centerText">
           Welcome To Vivekanand <br/>
           College!<br/>
-          <h5 className="subtitle">Your journey to excellence starts here.</h5>
-          < a className="apply-button" href="/addmission">Apply Now</a>
+          <h5 className="subtitle">Your journey to excellence starts here.</h5>
           </h1>
-
-        <p className="card1">**Vivekanand College** is a premier educational institution dedicated to fostering academic excellence, innovation, and holistic development. Established in [Year of Establishment, e.g., 1980], we have proudly served generations of students, empowering them to achieve their full potential.
+         <p className="card1">*Vivekanand College* is a premier educational institution dedicated to fostering academic excellence, innovation, and holistic development. Established in [Year of Establishment, e.g., 1980], we have proudly served generations of students, empowering them to achieve their full potential.
         </p>
         <p className="card1">At Vivekanand College, we believe in a vibrant learning environment that extends beyond textbooks. Our state-of-the-art facilities, experienced faculty, and diverse student community create a unique ecosystem where curiosity thrives and future leaders are shaped.
         </p>
         <h2 className="card1">Why Choose Vivekanand College?
         </h2>
         <ul className="card1" type="disk">
-          <li>**Legacy of Excellence:** Decades of commitment to quality education.
+          <li>*Legacy of Excellence:* Decades of commitment to quality education.
           </li>
-          <li>**Experienced Faculty:** Learn from renowned experts and passionate educators.
+          <li>*Experienced Faculty:* Learn from renowned experts and passionate educators.
           </li>
-          <li>**Modern Facilities:** Well-equipped labs, expansive library, and comfortable campus.
+          <li>*Modern Facilities:* Well-equipped labs, expansive library, and comfortable campus.
           </li>
-          <li>**Holistic Development:** Focus on co-curricular activities, sports, and community service.
+          <li>*Holistic Development:* Focus on co-curricular activities, sports, and community service.
           </li>
-          <li>**Strong Placements:** Excellent career opportunities with leading companies
+          <li>*Strong Placements:* Excellent career opportunities with leading companies
           </li>
           </ul>
           <h2 className="card1">Campus Life & Facilities</h2>
